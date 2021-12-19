@@ -68,7 +68,7 @@ function setup(){
     // World.add(myworld,ball);
 
    //  ball = Bodies.ellipse(590,100,20,
-                  ball_options);
+      //            ball_options);
     // World.add(myworld,ball);
 
     // ball = Bodies.circle(590,100,20,
